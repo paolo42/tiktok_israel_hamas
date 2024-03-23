@@ -1,15 +1,15 @@
 ,Platform,Uses,Question,Agree,Neutral,Disagree,Agree %,Neutral %,Disagree %,Pro_Israel_Perc,Focus,Question Text
-0,TikTok,True,1.9_1,498,191,76,65.1,25.0,9.9,65.1,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
-1,TikTok,False,1.9_1,302,82,26,73.7,20.0,6.3,73.7,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
+0,TikTok,True,1.9_1,498,191,76,65.1,25,9.9,65.1,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
+1,TikTok,False,1.9_1,302,82,26,73.7,20,6.3,73.7,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
 2,Instagram,True,1.9_1,667,229,90,67.6,23.2,9.1,67.6,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
 3,Instagram,False,1.9_1,81,35,12,63.3,27.3,9.4,63.3,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
-4,X,True,1.9_1,315,90,46,69.8,20.0,10.2,69.8,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
+4,X,True,1.9_1,315,90,46,69.8,20,10.2,69.8,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
 5,X,False,1.9_1,410,157,47,66.8,25.6,7.7,66.8,Anti-Semitism,Jewish people can be trusted just as much as other American people in business.
-6,TikTok,True,1.9_2,390,294,81,51.0,38.4,10.6,51.0,Anti-Semitism,Jewish people are just as loyal to America as other American people.
+6,TikTok,True,1.9_2,390,294,81,51,38.4,10.6,51,Anti-Semitism,Jewish people are just as loyal to America as other American people.
 7,TikTok,False,1.9_2,255,113,42,62.2,27.6,10.2,62.2,Anti-Semitism,Jewish people are just as loyal to America as other American people.
-8,Instagram,True,1.9_2,540,338,108,54.8,34.3,11.0,54.8,Anti-Semitism,Jewish people are just as loyal to America as other American people.
+8,Instagram,True,1.9_2,540,338,108,54.8,34.3,11,54.8,Anti-Semitism,Jewish people are just as loyal to America as other American people.
 9,Instagram,False,1.9_2,67,45,16,52.3,35.2,12.5,52.3,Anti-Semitism,Jewish people are just as loyal to America as other American people.
-10,X,True,1.9_2,266,122,63,59.0,27.1,14.0,59.0,Anti-Semitism,Jewish people are just as loyal to America as other American people.
+10,X,True,1.9_2,266,122,63,59,27.1,14,59,Anti-Semitism,Jewish people are just as loyal to America as other American people.
 11,X,False,1.9_2,326,234,54,53.1,38.1,8.8,53.1,Anti-Semitism,Jewish people are just as loyal to America as other American people.
 12,TikTok,True,1.9_3,586,135,44,76.6,17.6,5.8,76.6,Anti-Semitism,I am just as open to having Jewish friends as I am to having friends from other sections of American society.
 13,TikTok,False,1.9_3,351,48,11,85.6,11.7,2.7,85.6,Anti-Semitism,I am just as open to having Jewish friends as I am to having friends from other sections of American society.
@@ -18,15 +18,15 @@
 16,X,True,1.9_3,340,73,38,75.4,16.2,8.4,75.4,Anti-Semitism,I am just as open to having Jewish friends as I am to having friends from other sections of American society.
 17,X,False,1.9_3,496,101,17,80.8,16.4,2.8,80.8,Anti-Semitism,I am just as open to having Jewish friends as I am to having friends from other sections of American society.
 18,TikTok,True,1.9_4,192,286,287,25.1,37.4,37.5,37.5,Anti-Semitism,"Compared to other groups, Jewish people have too much power in the media."
-19,TikTok,False,1.9_4,66,127,217,16.1,31.0,52.9,52.9,Anti-Semitism,"Compared to other groups, Jewish people have too much power in the media."
+19,TikTok,False,1.9_4,66,127,217,16.1,31,52.9,52.9,Anti-Semitism,"Compared to other groups, Jewish people have too much power in the media."
 20,Instagram,True,1.9_4,242,342,402,24.5,34.7,40.8,40.8,Anti-Semitism,"Compared to other groups, Jewish people have too much power in the media."
 21,Instagram,False,1.9_4,14,52,62,10.9,40.6,48.4,48.4,Anti-Semitism,"Compared to other groups, Jewish people have too much power in the media."
 22,X,True,1.9_4,154,132,165,34.1,29.3,36.6,36.6,Anti-Semitism,"Compared to other groups, Jewish people have too much power in the media."
 23,X,False,1.9_4,83,237,294,13.5,38.6,47.9,47.9,Anti-Semitism,"Compared to other groups, Jewish people have too much power in the media."
 24,TikTok,True,1.9_5,186,234,345,24.3,30.6,45.1,45.1,Anti-Semitism,Jewish people talk about the Holocaust just to further their political agenda.
 25,TikTok,False,1.9_5,56,101,253,13.7,24.6,61.7,61.7,Anti-Semitism,Jewish people talk about the Holocaust just to further their political agenda.
-26,Instagram,True,1.9_5,227,277,482,23.0,28.1,48.9,48.9,Anti-Semitism,Jewish people talk about the Holocaust just to further their political agenda.
-27,Instagram,False,1.9_5,17,41,70,13.3,32.0,54.7,54.7,Anti-Semitism,Jewish people talk about the Holocaust just to further their political agenda.
+26,Instagram,True,1.9_5,227,277,482,23,28.1,48.9,48.9,Anti-Semitism,Jewish people talk about the Holocaust just to further their political agenda.
+27,Instagram,False,1.9_5,17,41,70,13.3,32,54.7,54.7,Anti-Semitism,Jewish people talk about the Holocaust just to further their political agenda.
 28,X,True,1.9_5,151,109,191,33.5,24.2,42.4,42.4,Anti-Semitism,Jewish people talk about the Holocaust just to further their political agenda.
 29,X,False,1.9_5,74,197,343,12.1,32.1,55.9,55.9,Anti-Semitism,Jewish people talk about the Holocaust just to further their political agenda.
 30,TikTok,True,1.9_6,167,297,301,21.8,38.8,39.3,39.3,Anti-Semitism,Jewish people chase money more than other people do.
@@ -35,39 +35,3 @@
 33,Instagram,False,1.9_6,18,50,60,14.1,39.1,46.9,46.9,Anti-Semitism,Jewish people chase money more than other people do.
 34,X,True,1.9_6,118,135,198,26.2,29.9,43.9,43.9,Anti-Semitism,Jewish people chase money more than other people do.
 35,X,False,1.9_6,83,226,305,13.5,36.8,49.7,49.7,Anti-Semitism,Jewish people chase money more than other people do.
-36,TikTok,True,1.9_7,313,237,215,40.9,31.0,28.1,40.9,Anti-Israel,I am comfortable spending time with people who openly support Israel.
-37,TikTok,False,1.9_7,200,124,86,48.8,30.2,21.0,48.8,Anti-Israel,I am comfortable spending time with people who openly support Israel.
-38,Instagram,True,1.9_7,429,294,263,43.5,29.8,26.7,43.5,Anti-Israel,I am comfortable spending time with people who openly support Israel.
-39,Instagram,False,1.9_7,57,41,30,44.5,32.0,23.4,44.5,Anti-Israel,I am comfortable spending time with people who openly support Israel.
-40,X,True,1.9_7,224,99,128,49.7,22.0,28.4,49.7,Anti-Israel,I am comfortable spending time with people who openly support Israel.
-41,X,False,1.9_7,246,224,144,40.1,36.5,23.5,40.1,Anti-Israel,I am comfortable spending time with people who openly support Israel.
-42,TikTok,True,1.9_8,396,231,138,51.8,30.2,18.0,51.8,Anti-Israel,Israel has a right to exist as a homeland for the Jewish people.
-43,TikTok,False,1.9_8,218,118,74,53.2,28.8,18.0,53.2,Anti-Israel,Israel has a right to exist as a homeland for the Jewish people.
-44,Instagram,True,1.9_8,517,297,172,52.4,30.1,17.4,52.4,Anti-Israel,Israel has a right to exist as a homeland for the Jewish people.
-45,Instagram,False,1.9_8,70,40,18,54.7,31.2,14.1,54.7,Anti-Israel,Israel has a right to exist as a homeland for the Jewish people.
-46,X,True,1.9_8,243,111,97,53.9,24.6,21.5,53.9,Anti-Israel,Israel has a right to exist as a homeland for the Jewish people.
-47,X,False,1.9_8,320,209,85,52.1,34.0,13.8,52.1,Anti-Israel,Israel has a right to exist as a homeland for the Jewish people.
-48,TikTok,True,1.9_9,404,219,142,52.8,28.6,18.6,52.8,Anti-Israel,Israel is right to defend itself against those who want to destroy it.
-49,TikTok,False,1.9_9,233,115,62,56.8,28.0,15.1,56.8,Anti-Israel,Israel is right to defend itself against those who want to destroy it.
-50,Instagram,True,1.9_9,524,281,181,53.1,28.5,18.4,53.1,Anti-Israel,Israel is right to defend itself against those who want to destroy it.
-51,Instagram,False,1.9_9,78,31,19,60.9,24.2,14.8,60.9,Anti-Israel,Israel is right to defend itself against those who want to destroy it.
-52,X,True,1.9_9,258,93,100,57.2,20.6,22.2,57.2,Anti-Israel,Israel is right to defend itself against those who want to destroy it.
-53,X,False,1.9_9,312,209,93,50.8,34.0,15.1,50.8,Anti-Israel,Israel is right to defend itself against those who want to destroy it.
-54,TikTok,True,1.9_10,253,288,224,33.1,37.6,29.3,29.3,Anti-Israel,Israel and its supporters are a bad influence on our democracy.
-55,TikTok,False,1.9_10,120,164,126,29.3,40.0,30.7,30.7,Anti-Israel,Israel and its supporters are a bad influence on our democracy.
-56,Instagram,True,1.9_10,322,383,281,32.7,38.8,28.5,28.5,Anti-Israel,Israel and its supporters are a bad influence on our democracy.
-57,Instagram,False,1.9_10,34,51,43,26.6,39.8,33.6,33.6,Anti-Israel,Israel and its supporters are a bad influence on our democracy.
-58,X,True,1.9_10,188,124,139,41.7,27.5,30.8,30.8,Anti-Israel,Israel and its supporters are a bad influence on our democracy.
-59,X,False,1.9_10,147,287,180,23.9,46.7,29.3,29.3,Anti-Israel,Israel and its supporters are a bad influence on our democracy.
-60,TikTok,True,1.9_11,260,252,253,34.0,32.9,33.1,33.1,Anti-Israel,Israel can get away with anything because its supporters control the media.
-61,TikTok,False,1.9_11,112,126,172,27.3,30.7,42.0,42.0,Anti-Israel,Israel can get away with anything because its supporters control the media.
-62,Instagram,True,1.9_11,330,312,344,33.5,31.6,34.9,34.9,Anti-Israel,Israel can get away with anything because its supporters control the media.
-63,Instagram,False,1.9_11,30,42,56,23.4,32.8,43.8,43.8,Anti-Israel,Israel can get away with anything because its supporters control the media.
-64,X,True,1.9_11,182,109,160,40.4,24.2,35.5,35.5,Anti-Israel,Israel can get away with anything because its supporters control the media.
-65,X,False,1.9_11,164,226,224,26.7,36.8,36.5,36.5,Anti-Israel,Israel can get away with anything because its supporters control the media.
-66,TikTok,True,1.9_12,376,259,130,49.2,33.9,17.0,17.0,Anti-Israel,Israel treats the Palestinians like the Nazis treated the Jews.
-67,TikTok,False,1.9_12,154,154,102,37.6,37.6,24.9,24.9,Anti-Israel,Israel treats the Palestinians like the Nazis treated the Jews.
-68,Instagram,True,1.9_12,460,341,185,46.7,34.6,18.8,18.8,Anti-Israel,Israel treats the Palestinians like the Nazis treated the Jews.
-69,Instagram,False,1.9_12,45,52,31,35.2,40.6,24.2,24.2,Anti-Israel,Israel treats the Palestinians like the Nazis treated the Jews.
-70,X,True,1.9_12,256,121,74,56.8,26.8,16.4,16.4,Anti-Israel,Israel treats the Palestinians like the Nazis treated the Jews.
-71,X,False,1.9_12,227,259,128,37.0,42.2,20.8,20.8,Anti-Israel,Israel treats the Palestinians like the Nazis treated the Jews.
